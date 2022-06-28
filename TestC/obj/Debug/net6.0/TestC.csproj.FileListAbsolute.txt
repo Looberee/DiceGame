@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\TestC\TestC\bin\Debug\net6.0\TestC.exe
+C:\Users\USER\source\repos\TestC\TestC\bin\Debug\net6.0\TestC.deps.json
+C:\Users\USER\source\repos\TestC\TestC\bin\Debug\net6.0\TestC.runtimeconfig.json
+C:\Users\USER\source\repos\TestC\TestC\bin\Debug\net6.0\TestC.dll
+C:\Users\USER\source\repos\TestC\TestC\bin\Debug\net6.0\ref\TestC.dll
+C:\Users\USER\source\repos\TestC\TestC\bin\Debug\net6.0\TestC.pdb
+C:\Users\USER\source\repos\TestC\TestC\obj\Debug\net6.0\TestC.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\TestC\TestC\obj\Debug\net6.0\TestC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\TestC\TestC\obj\Debug\net6.0\TestC.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\TestC\TestC\obj\Debug\net6.0\TestC.AssemblyInfo.cs
+C:\Users\USER\source\repos\TestC\TestC\obj\Debug\net6.0\TestC.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\TestC\TestC\obj\Debug\net6.0\TestC.dll
+C:\Users\USER\source\repos\TestC\TestC\obj\Debug\net6.0\ref\TestC.dll
+C:\Users\USER\source\repos\TestC\TestC\obj\Debug\net6.0\TestC.pdb
+C:\Users\USER\source\repos\TestC\TestC\obj\Debug\net6.0\TestC.genruntimeconfig.cache
